@@ -75,6 +75,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
+    padding-bottom: 15px;
 }
 
 #box-1 {
